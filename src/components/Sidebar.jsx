@@ -27,7 +27,7 @@ export default function Sidebar({ currentId, completed, onNavigate, isOpen, onCl
       <aside className={`sidebar${isOpen ? ' open' : ''}`}>
         {/* Logo */}
         <div className="sidebar-logo">
-          <div className="logo-badge">⚛️</div>
+          <div className="logo-badge">ᗩ</div>
           <div className="logo-text">
             <span className="logo-title">React বাংলা</span>
             <span className="logo-sub">শিক্ষানবিস থেকে বিশেষজ্ঞ</span>

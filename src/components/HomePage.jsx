@@ -37,7 +37,7 @@ export default function HomePage({ onStart }) {
   return (
     <div className="content-area">
       <div className="home-hero">
-        <span className="home-logo">⚛️</span>
+        <span className="home-logo">ᗩ ᕼ ᗰ E ᗪ</span>
         <h1>React শিখুন বাংলায়</h1>
         <p>
           শিক্ষানবিস থেকে বিশেষজ্ঞ পর্যন্ত — সম্পূর্ণ বাংলা ভাষায় React.js শেখার
